@@ -41,6 +41,9 @@ When it comes to object detection, popular detection frameworks are
  
  ## Process Flow Diagram 
  ![System-overview-of-object-recognition-in-video](https://github.com/dhruvaop/Object-Detection-For-Autonomous-Vehicles-using-SYCL-DPC-/assets/71749153/1e6d5b65-b05d-4406-a37e-562616a3f45f)
+ 
+ ## Architecture Diagram
+ ![Screenshot 2023-05-20 004140](https://github.com/dhruvaop/Object-Detection-For-Autonomous-Vehicles-using-SYCL-DPC-/assets/71749153/06e0983d-a007-4514-800c-b4effaf13ac2)
 
  
 Checkout the object detection implementation available in [cvlib](http:cvlib.net) which enables detecting common objects in the context through a single function call `detect_common_objects()`.
